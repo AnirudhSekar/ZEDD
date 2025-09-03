@@ -16,7 +16,7 @@ Without requiring fine-tuning upon each detection, ZEDD flags adversarial inputs
 
 ## Download and Usage
 ```bash
-git clone https://github.com/MrinalA2009/ZEDD.git
+git clone https://github.com/AnirudhSekar/ZEDD.git
 cd ZEDD
 ```
 Now you can either open in Google Colab or run
