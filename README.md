@@ -14,14 +14,11 @@ Without requiring fine-tuning upon each detection, ZEDD flags adversarial inputs
 - **Flexible statistical detectors** – supports GMM, KDE, etc.  
 - **Adaptive thresholds** – adjust sensitivity to balance detection vs. false positives.  
 
-## Download and Usage
+## Usage
+Open in Google Colab or download this repository and run:
 ```bash
-git clone https://github.com/AnirudhSekar/ZEDD.git
 cd ZEDD
-```
-Now you can either open in Google Colab or run
-```bash
-jupyter notebook Zero_Shot_Embedding_Drift_Detection_A_Lightweight_Defense_Against_Prompt_Injection_in_Instruction_Following_LLMS.ipynb
+jupyter notebook Zero_Shot_Embedding_Drift_Detection_A_Lightweight_Defense_Against_Prompt_Injection_in_LLMS.ipynb
 ```
 to open and run in any other Jupyter-Notebook based platform.
 
