@@ -1,0 +1,15 @@
+datasets==2.15.0 
+openai 
+fasttext 
+tqdm 
+numpy==1.25.0 
+tiktoken
+torch
+transformers==4.44.0 
+sentence-transformers==3.0.1
+huggingface-hub
+matplotlib
+pandas
+scipy
+scikit-learn
+peft
